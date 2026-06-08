@@ -1,9 +1,10 @@
 # Hi, I'm Andrii 👋
 
-**Data Analyst · Python Developer · Kyiv, Ukraine 🇺🇦**
+**Data Analyst · AI-Augmented Developer · Kyiv, Ukraine 🇺🇦**
 
 I build end-to-end data products: from raw data collection and SQL analytics  
-to interactive dashboards and automated pipelines with real business impact.
+to interactive dashboards and automated pipelines with real business impact.  
+I actively use **Claude Code & GitHub Copilot** to accelerate development.
 
 ---
 
@@ -13,7 +14,7 @@ to interactive dashboards and automated pipelines with real business impact.
 `Python` `Pandas` `NumPy` `SciPy` `SQL` `SQLite`
 
 **Visualization & Dashboards**
-`Streamlit` `Altair` `Tableau` `Plotly` `Matplotlib`
+`Streamlit` `Altair` `Tableau` `Plotly` `Matplotlib` `Seaborn`
 
 **Data Engineering**
 `ETL Pipelines` `APScheduler` `BeautifulSoup4` `Requests` `pytrends` `VADER`
@@ -21,18 +22,21 @@ to interactive dashboards and automated pipelines with real business impact.
 **Tools & Workflow**
 `Git` `Docker` `pytest` `dotenv` `Google Sheets API` `Excel`
 
+**AI Tools**
+`Claude Code` `GitHub Copilot` `OpenAI Codex` `Prompt Engineering`
+
 ---
 
 ## 📊 Data Analytics Portfolio
 
 | | Project | Stack | What it does |
 |--|---------|-------|-------------|
-| 📡 | [Early Signal Detection — Investments](https://github.com/AvramenkoAM/early-signal-detection-investments) | Python · Streamlit · ETL | Multi-source trend tracker across AI/Energy/Biotech/Finance; anomaly detection + email alerts |
+| 📡 | [Early Signal Detection — Investments](https://github.com/AvramenkoAM/early-signal-detection-investments) | Python · Streamlit · ETL | Multi-source trend tracker across AI/Energy/Biotech/Finance; anomaly detection + email alerts · **[🟢 Live Demo](https://early-signal-detection-investments-hnyckdxgrkithukrijwnvh.streamlit.app/)** |
 | 🛒 | [E-commerce Sales Analysis](https://github.com/AvramenkoAM/E-commerce-Data-Analysis-Customer-Behavior-Business-Insights) | SQL · Python · Tableau | 99k orders — GMV, AOV, LTV, retention, BI dashboard |
 | 👥 | [RFM Customer Segmentation](https://github.com/AvramenkoAM/rfm-customer-segmentation) | Python · Streamlit | Recency/Frequency/Monetary segments, interactive dashboard |
-| 🧪 | [A/B Test Analysis](https://github.com/AvramenkoAM/ab-test-analysis) | Python · SciPy | Sanity checks, chi-square, power analysis, GO/NO GO framework |
-| 📣 | [Marketing Attribution & Unit Economics](https://github.com/AvramenkoAM/marketing-attribution-unit-economics) | Python · Excel | CAC, LTV, ROAS, payback period, budget optimizer |
-| 🔄 | [SaaS Cohort Retention](https://github.com/AvramenkoAM/saas-cohort-retention) | Python · Pandas | Logo & revenue retention, NRR, MRR waterfall, churn by tier |
+| 🧪 | [A/B Test Analysis](https://github.com/AvramenkoAM/ab-test-analysis) | Python · SciPy | Sanity checks, chi-square, power analysis, GO/NO GO framework · **+17.3% CVR lift** |
+| 📣 | [Marketing Attribution & Unit Economics](https://github.com/AvramenkoAM/marketing-attribution-unit-economics) | Python · Excel | CAC, LTV, ROAS, payback period, budget optimizer · **LTV/CAC 106×** |
+| 🔄 | [SaaS Cohort Retention](https://github.com/AvramenkoAM/saas-cohort-retention) | Python · Pandas | Logo & revenue retention, NRR, MRR waterfall, churn by tier · **NRR ~97%** |
 
 ## 🔧 Data Engineering Projects
 
@@ -41,7 +45,6 @@ to interactive dashboards and automated pipelines with real business impact.
 | 🏠 | [Apartment Voucher Investment Analyzer](https://github.com/AvramenkoAM/apartment-voucher-investment-analyzer) | Python · Playwright · Sheets API | Scrapes 4 UA real-estate portals → CSV / Sheets |
 | 📄 | [Hvilia Invoice Digital Pipeline](https://github.com/AvramenkoAM/hvilia_invoice_digital) | Python · OCR · OpenCV | Classifies restaurant invoice photos, extracts data |
 | 🔍 | [Work Search Automation](https://github.com/AvramenkoAM/work-search-automation) | Python · Docker · pytest | Automated vacancy monitoring with Sheets sync |
-| 🕵️ | [Hvilia Competitor Intelligence](https://github.com/AvramenkoAM/hvilia-competitor-intelligence) | Python | Automated competitor monitoring for restaurant business |
 
 ---
 
@@ -65,4 +68,4 @@ to interactive dashboards and automated pipelines with real business impact.
 ---
 
 💬 *Ask me about data analysis, dashboards, or automated pipelines*  
-🌱 *Currently exploring: ML signal detection, market trend analysis*
+🌱 *Currently exploring: ML signal detection, investment trend analysis, AI-augmented analytics workflows*
