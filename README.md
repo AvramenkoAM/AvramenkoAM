@@ -1,71 +1,75 @@
-# Hi, I'm Andrii 👋
+# Andrii Avramenko
 
-**Data Analyst · AI-Augmented Developer · Kyiv, Ukraine 🇺🇦**
+### Electronics Assembly · Aspiring Hardware Engineer · Python Automation
 
-I build end-to-end data products: from raw data collection and SQL analytics  
-to interactive dashboards and automated pipelines with real business impact.  
-I actively use **Claude Code & GitHub Copilot** to accelerate development.
+Based in **Kyiv, Ukraine**. I work in electronics assembly at **VD MAIS** and am learning circuit design and PCB layout using **KiCad**.
 
----
+I am working towards a **Trainee Hardware Engineer / Hardware Developer** role, building on hands-on manufacturing experience and a bachelor's degree in electrical engineering.
 
-## 🛠 Tech Stack
+## Hands-on experience
 
-**Analytics & Data Science**
-`Python` `Pandas` `NumPy` `SciPy` `SQL` `SQLite`
+At **VD MAIS**, my work includes:
 
-**Visualization & Dashboards**
-`Streamlit` `Altair` `Tableau` `Plotly` `Matplotlib` `Seaborn`
+- Through-hole component assembly and soldering (**THT/DIP**).
+- Wire preparation, stripping, tinning and soldering.
+- Working with assembly drawings, specifications and production instructions.
+- Checking component markings, polarity and assembly quality.
+- Visual inspection and correction of soldering defects within approved production procedures.
+- Following **IPC-A-610 acceptance requirements**, primarily for **Class 3** assemblies, and workplace **ESD** procedures.
+- Using soldering equipment, hand tools and a multimeter.
+- Completing assigned assembly work and coordinating with the production team and quality control.
 
-**Data Engineering**
-`ETL Pipelines` `APScheduler` `BeautifulSoup4` `Requests` `pytrends` `VADER`
+## Learning hardware development
 
-**Tools & Workflow**
-`Git` `Docker` `pytest` `dotenv` `Google Sheets API` `Excel`
+- **KiCad:** schematic capture, component footprints and PCB layout.
+- **Circuit fundamentals:** component selection, power supplies and MOSFET switching.
+- **PCB fundamentals:** placement, routing, grounding, return-current paths and EMI/EMC considerations.
+- Connecting design decisions with manufacturability, inspection and repair.
 
-**AI Tools**
-`Claude Code` `GitHub Copilot` `OpenAI Codex` `Prompt Engineering`
+My practical experience is in electronics assembly; schematic and PCB design are skills I am currently developing.
 
----
+## Supporting software skills
 
-## 📊 Data Analytics Portfolio
+| Area | Tools |
+| --- | --- |
+| Automation and data processing | Python, CSV, JSON, Pandas, NumPy, SQL |
+| Image processing and OCR | OpenCV, Tesseract |
+| Testing and version control | pytest, Git, GitHub |
+| Documentation and task organisation | Jira, Confluence |
+| AI-assisted learning and development | ChatGPT, Claude Code |
 
-| | Project | Stack | What it does |
-|--|---------|-------|-------------|
-| 📡 | [Early Signal Detection — Investments](https://github.com/AvramenkoAM/early-signal-detection-investments) | Python · Streamlit · ETL | Multi-source trend tracker across AI/Energy/Biotech/Finance; anomaly detection + email alerts · **[🟢 Live Demo](https://early-signal-detection-investments-hnyckdxgrkithukrijwnvh.streamlit.app/)** |
-| 🛒 | [E-commerce Sales Analysis](https://github.com/AvramenkoAM/E-commerce-Data-Analysis-Customer-Behavior-Business-Insights) | SQL · Python · Tableau | 99k orders — GMV, AOV, LTV, retention, BI dashboard |
-| 👥 | [RFM Customer Segmentation](https://github.com/AvramenkoAM/rfm-customer-segmentation) | Python · Streamlit | Recency/Frequency/Monetary segments, interactive dashboard |
-| 🧪 | [A/B Test Analysis](https://github.com/AvramenkoAM/ab-test-analysis) | Python · SciPy | Sanity checks, chi-square, power analysis, GO/NO GO framework · **+17.3% CVR lift** |
-| 📣 | [Marketing Attribution & Unit Economics](https://github.com/AvramenkoAM/marketing-attribution-unit-economics) | Python · Excel | CAC, LTV, ROAS, payback period, budget optimizer · **LTV/CAC 106×** |
-| 🔄 | [SaaS Cohort Retention](https://github.com/AvramenkoAM/saas-cohort-retention) | Python · Pandas | Logo & revenue retention, NRR, MRR waterfall, churn by tier · **NRR ~97%** |
+## Selected personal projects
 
-## 🔧 Data Engineering Projects
+### [Invoice digitisation](https://github.com/AvramenkoAM/hvilia_invoice_digital)
+Processing document photos, extracting text with OCR and exporting structured results.
 
-| | Project | Stack | What it does |
-|--|---------|-------|-------------|
-| 🏠 | [Apartment Voucher Investment Analyzer](https://github.com/AvramenkoAM/apartment-voucher-investment-analyzer) | Python · Playwright · Sheets API | Scrapes 4 UA real-estate portals → CSV / Sheets |
-| 📄 | [Hvilia Invoice Digital Pipeline](https://github.com/AvramenkoAM/hvilia_invoice_digital) | Python · OCR · OpenCV | Classifies restaurant invoice photos, extracts data |
-| 🔍 | [Work Search Automation](https://github.com/AvramenkoAM/work-search-automation) | Python · Docker · pytest | Automated vacancy monitoring with Sheets sync |
+**Python · OpenCV · Tesseract · CSV · JSON**
 
----
+### [Job-search automation](https://github.com/AvramenkoAM/work-search-automation)
+Collecting and filtering vacancy data, saving results and synchronising them with Google Sheets. Includes tests for filtering logic.
 
-## 📈 GitHub Stats
+**Python · pytest · JSON · Google Sheets integration**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvramenkoAM&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvramenkoAM&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
+### [E-commerce data analysis](https://github.com/AvramenkoAM/E-commerce-Data-Analysis-Customer-Behavior-Business-Insights)
+An earlier personal project exploring orders and customer behaviour, reflecting my background in working with structured datasets.
 
----
+**Python · SQL · Data analysis**
 
-## 📬 Let's Connect
+These are personal learning projects developed with AI assistance. They demonstrate supporting software skills, not commercial embedded-development experience.
 
-📍 Kyiv, Ukraine &nbsp;·&nbsp; open to remote & relocation
+## Education
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrii-avramenko-1a3263232)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/andrii.avramenko)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:andreyka.avramenko.1991@gmail.com)
+**Kharkiv National Automobile and Highway University**  
+Bachelor's degree — Electrical Power Engineering, Electrical Engineering and Electromechanics  
+Specialty **141** · Graduated **2022**
 
----
+**KSE — Electronics Assembly Training**  
+Training in radioelectronic equipment assembly · **2026**
 
-💬 *Ask me about data analysis, dashboards, or automated pipelines*  
-🌱 *Currently exploring: ML signal detection, investment trend analysis, AI-augmented analytics workflows*
+## Current direction
+
+I am interested in trainee hardware opportunities where I can contribute my electronics assembly experience while learning schematic design, PCB development and hardware testing from experienced engineers.
+
+Long-term interests: **robotics, autonomous systems and practical engineering automation**.
+
+**Contact:** [andreyka.avramenko.1991@gmail.com](mailto:andreyka.avramenko.1991@gmail.com)
